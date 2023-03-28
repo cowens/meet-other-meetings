@@ -98,5 +98,5 @@ By continuing to access or use Our Service after those revisions become effectiv
 ## Contact Us
 If you have any questions about these Terms and Conditions, You can contact us:
 
-By visiting this page on our website: https://github.com/issues
+By visiting this page on our [issues page](https://github.com/cowens/meet-other-meetings/issues)
 
